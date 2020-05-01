@@ -16,7 +16,12 @@
 3. vishal@vishal-HP:~/practice$ vi demo.py    
         ## u can see ur command prompt open a editor  
 ![vi](https://user-images.githubusercontent.com/29985801/80797064-70c18800-8bbe-11ea-97f4-87c071c4da13.jpeg)
-4. for write code- press i
-5. after writing a code- press esc button then :wq
-
-6. vishal@vishal-HP:~/practice$ python demo.py
+4. for write down program - press i and after writing a code- press esc button then :wq
+        
+        ## check below image
+![addprgm](https://user-images.githubusercontent.com/29985801/80798573-54bfe580-8bc2-11ea-809b-e310be5bc6b1.jpeg)
+## for run the code write down below command 
+5. vishal@vishal-HP:~/practice$ python demo.py
+        
+        ## u get the output shown in below image
+![output](https://user-images.githubusercontent.com/29985801/80798675-8fc21900-8bc2-11ea-822d-35f92d5e4988.jpeg)
