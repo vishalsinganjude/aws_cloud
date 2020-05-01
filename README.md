@@ -14,4 +14,9 @@
 1. vishal@vishal-HP:~$ mkdir practice
 2. vishal@vishal-HP:~$ cd practice
 3. vishal@vishal-HP:~/practice$ vi demo.py    
-        # u can see ur command prompt open a editor
+        ## u can see ur command prompt open a editor  
+![vi](https://user-images.githubusercontent.com/29985801/80797064-70c18800-8bbe-11ea-97f4-87c071c4da13.jpeg)
+4. for write code- press i
+5. after writing a code- press esc button then :wq
+
+6. vishal@vishal-HP:~/practice$ python demo.py
