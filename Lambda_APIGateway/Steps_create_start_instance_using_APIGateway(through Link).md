@@ -195,5 +195,18 @@
     > Go to EC2 - running instances 
 # Congratulations Your one Tap link is created Successfully by using API and Lambda !!
 
+## Now For local goto security groups - create inbound Rule
+    
+![WhatsApp Image 2020-05-07 at 12 37 23 PM](https://user-images.githubusercontent.com/29985801/81285744-9a2a5a00-907d-11ea-8156-f273803494ce.jpeg)
 
+![WhatsApp Image 2020-05-07 at 12 37 24 PM](https://user-images.githubusercontent.com/29985801/81285748-9c8cb400-907d-11ea-8e46-3389643b403c.jpeg)
+    
+ # Goto Local command prompt
+    > goto that folder where ur key-pair is saved.
+   
+    $ chmod 400 <KEY PAIR>.pem
+    # Replace <KEY-PAIR> with your key pair name.
+    
+    $ ssh -i <KEY-PAIR>.pem ec2-user@<IP ADDRESS>
+    # Remember to replace <IP ADDRESS> with the public IP of the EC2 instance you created.
     
